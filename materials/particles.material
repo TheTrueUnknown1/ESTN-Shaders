@@ -21,7 +21,7 @@
         }
       ],
 
-      "msaaSupport": "Both"
+      "msaaSupport": "Both",
       "variants": [
         { "fog": { "+defines": [ "FOG" ] } },
         { "lit": { "+defines": [ "ALWAYS_LIT" ] } },
